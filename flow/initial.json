@@ -6,12 +6,17 @@
             "ola",
             "ole",
             "inicio",
-            "welcome",
+            "informacion",
             "buenos días",
             "buenas tardes",
             "buenas noches",
+            "shein",
+            "info",
+            "Info",
+            "buen día",
+            "buen dia",
             "me dieron este número",
-            "venden a crédito",
+            "me interesa",
             "quisiera saber si venden",
             "necesito saber"
         ],
@@ -19,9 +24,15 @@
     },
     {
         "keywords":  [
-            "cursos",
-            "info",
-            "curso"        ],
+            "1",
+            "Uno",
+            "uno",
+            "shein",
+            "Info shein",
+            "Shein", 
+            "Chein",
+            "chein"
+            ],
         "key": "STEP_2"
     },
     {
