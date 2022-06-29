@@ -54,9 +54,10 @@
     },
     "STEP_4":{
         "replyMessage":[
-            "Gracias a ti! \n"
+            "Tupperware tiene el 30% de descuento✨✨, se ingresa un pedido cada 3 semanas. Ya que el catálogo es renovado cada 21 días \n",
+            "En whatsapp se indica para ingresar pedido global. Tarda 15 días en llegar✅"
         ],
-        "media":"https://media4.giphy.com/media/hur0SFIU5SH4mxNBWa/giphy.gif",
+        "media":"tupper.jpg",
         "trigger":null
     },
     "STEP_5":{
