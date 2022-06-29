@@ -1,13 +1,12 @@
 {
-    "type": "",
-    "project_id": "",
-    "private_key_id": "",
-    "private_key":"",
-    "client_email": "",
-    "client_id": "",
-    "auth_uri": "",
-    "token_uri": "",
-    "auth_provider_x509_cert_url": "",
-    "client_x509_cert_url":""
-  }
-  
+  "type": "service_account",
+  "project_id": "bot-wismos-ventas-dkvc",
+  "private_key_id": "45ecc0dcc9194de2d4eb5c8ff57bda4cd224e9bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCbpIMGpORVU6+G\n4wUOP4wY8i3itUT8Cuo1TZ8w1Ord198BtLZfqV8LD7eFN2jcdpYmvQghQFDacoTR\nF7YQkrUj0QWO1wcEryq5i5ziGZT5o/efjJvOqSVkWgtMtaBAK98rkmFCwu5GvDXg\nBUS9XRkVngcSFlwpbFiwGH/APrywfTGqKbkM+2VSnVk+HW4+fX2oYRHCJpb+LiUJ\nmprjO/hGtoyVIGWIxMNT9V3wYMF3UN/kgC9dMNr6YkX3DxngZAOfr45aZ5+YON1R\nLwL2CGDQdsgb417c57EuuSC+ti+ysCOi5koPHrDjq9BtqPcMMxCA0zB2+avmdvzO\nDKHwlGOzAgMBAAECggEACHaAB1706WzU+P0kG7u51utoMlEP8LJ5PK+9Ta7uHGTu\nA847MmVnvRa8MFqscXxjOrUBmalBHDeo4COtayZHAi0N48/uWkNaC9+7BpJEhvRy\n9PJ00F5jIZtBzQh9L7ATAPADKNmnkiIOveEbdT54LDQ9By8/EKOLCPw0ChR/Nwtp\n6XZNCq2uYoQpO0Il3P8J+crc7N0i9wrGIG3hN768nnv+tqncxXVNZS1O/nILly0M\nfBz/t5y81/r5xGEufcaZeFIG2VHX2X/wctWDS3WkZKcq3YkuIL+XLPPoLRcN8Dqf\nI/+okflsApuveUERt7JRKcLufXaeFA7TBV9LNpS/5QKBgQDRvuGLy4Yai31d7K8a\nCoivMYI5IX0SQYWSQkjySGN6tickKZLwVEYgwPfiZVuz/zgrb4Y1rLrTpWMx4iHB\nPskNqQW/wO/6ol2rcgM6lZY89n+haXuUklWAGXsFCcupFFlZ/Jjjd36tz29dEZam\nDwCdEYN9DY71q4iANdLN5aL65wKBgQC990OK+MbKGWC6Klvksp3GZP550bAtC0UH\nEnZuC/XPjbbela5UPl4HzCjltBvuT5GryeRT8pewSGbMAFAZTs3FAruKCitySfWi\nrRDVauctWVUdqpuJ7aGI8IbWIWCOW1gpeY+PWgX0D/vKCc/wT1fRSZa7ZL1TAdyz\nZN+8RdqjVQKBgHgbv5rHBFdFE5hqheb6q0Tvq+u9UprWrH+Rt6YOb/EASC+8Ium+\nyJ3PAuRBOJ89glPVPFyWOjIinkgdf0jjBEzvQlyJRqMWwV8BHfo5WNw2J+Ytulfc\n6Fs/vCOpdVewUG5oaMCxV/h+Nf5sqQEUzDwloE9HKVtjS/pnV/0SCB93AoGBAKVc\nzc32u00IBFxqLS4Kki82kRLIBr1fNwpt9uvau3KeYRanY2ZwF/hfryYtv7aWSy8o\ngvrUjVjl3Z4tk4xEPfkGZOxH6AQH/6xJTQMKmQyv29kEP3s0gU4sWqOh0GR7fWY1\nLFPUQKRxGXSJUBpXZxGHJpAfpHLShyUeZWiFwko1AoGBAKungdiHGhf41u11pM8Z\nLpsAYEM7B4DlP1XU2JC/72b6nJbL3pR3KrVf0m4XAio15RNF4V0pK2lJH58oYBuk\n0Ps1qU4i+6IM1tQzAwRgvHvzm1ohz+Ees6JKBZFljm2lEyj4q4Zrxf3spFVUyILn\nMjFBRYgjMl5xRXVsGUilgDRW\n-----END PRIVATE KEY-----\n",
+  "client_email": "wismosbot@bot-wismos-ventas-dkvc.iam.gserviceaccount.com",
+  "client_id": "117411770451745560563",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wismosbot%40bot-wismos-ventas-dkvc.iam.gserviceaccount.com"
+}
