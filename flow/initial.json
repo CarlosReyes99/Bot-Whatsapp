@@ -10,7 +10,6 @@
             "buenos días",
             "buenas tardes",
             "buenas noches",
-            "shein",
             "info",
             "Info",
             "buen día",
@@ -38,10 +37,12 @@
     
     {
         "keywords":  [
-            "asesor",
-            "asesores",
-            "Vendedor",
-            "cobrador"
+            "2",
+            "Dos",
+            "dos",
+            "Andrea",
+            "andrea", 
+            "calzado andrea"
         ],
         "key": "STEP_3"
     },

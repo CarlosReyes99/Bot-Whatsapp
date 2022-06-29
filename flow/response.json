@@ -42,15 +42,14 @@
             "Contamos con personas de confianza para sus envíos a todos Guatemala 🌸\n",
             "Manejamos la forma de pago del 50% es decir deposita 50% a la hora de hacer su pedido y el otro 50% un día antes de que su mercadería salga de nuestro local🌸🫶🏽 "
         ],
-        "media": "conversion.jpg",
+        "media": "conversionShein.jpg",
         "trigger":null
     },
     "STEP_3":{
         "replyMessage":[
-            "¿Ok cual curso de intereso? \n",
-            "*angular* , *node*, *ngrx*, *aws*"
+            "Andrea lo manejamos al 20% de descuento y tardan 15 días en llegar a Guate🥰🥰✨"
         ],
-        "media":null,
+        "media":"andrea.jpg",
         "trigger":null
     },
     "STEP_4":{
