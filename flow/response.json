@@ -45,45 +45,6 @@
         "media": "conversion.jpg",
         "trigger":null
     },
-    "STEP_2_1":{
-        "replyMessage":[
-            "Si te interesa Angular tienes disponible \n",
-            "*(Gratis)* https://bit.ly/367tJ32 \n\n",
-            "*(Pago)* https://link.codigoencasa.com/PROMO-INICIAL \n\n",
-            "*(Pago)* https://link.codigoencasa.com/ANGULAR-BASICO-EDTEAM \n\n",
-            "😎😎😎"
-        ],
-        "media":"https://i.imgur.com/Q0a5UQI.jpg",
-        "trigger":null
-    },
-    "STEP_2_2":{
-        "replyMessage":[
-            "Si te interesa NODE tienes disponible \n",
-            "*(Gratis)* https://bit.ly/3od1Bl6 \n\n",
-            "Espero pronto tener más material disponible",
-            "🤖"
-        ],
-        "media":null,
-        "trigger":null
-    },
-    "STEP_2_3":{
-        "replyMessage":[
-            "NGRX para manejar estados en Angular \n",
-            "*(Gratis)* https://bit.ly/ngrx-desde-cero \n",
-            "A darle! 😮"
-        ],
-        "media":null,
-        "trigger":null
-    },
-    "STEP_2_4":{
-        "replyMessage":[
-            "Muy bien AWS esta pronto a salir pre-registrate aquí \n",
-            "*(Pre-registro)* https://link.codigoencasa.com/AWS-BASICO-INVITACION \n",
-            "😮😮"
-        ],
-        "media":null,
-        "trigger":null
-    },
     "STEP_3":{
         "replyMessage":[
             "¿Ok cual curso de intereso? \n",

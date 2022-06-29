@@ -35,30 +35,7 @@
             ],
         "key": "STEP_2"
     },
-    {
-        "keywords":  [
-            "angular"
-        ],
-        "key": "STEP_2_1"
-    },
-    {
-        "keywords":  [
-            "node"
-        ],
-        "key": "STEP_2_2"
-    },
-    {
-        "keywords":  [
-            "ngrx"
-        ],
-        "key": "STEP_2_3"
-    },
-    {
-        "keywords":  [
-            "aws"
-        ],
-        "key": "STEP_2_4"
-    },
+    
     {
         "keywords":  [
             "asesor",
