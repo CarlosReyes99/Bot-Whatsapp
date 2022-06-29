@@ -80,10 +80,9 @@
     },
     "STEP_7":{
         "replyMessage":[
-            "Vente al telegram \n",
-            "https://t.me/leifermendez \n"
+            "Gracias por contactarnos✨\n"
         ],
-        "media":null,
+        "media":"hablar.ogg",
         "trigger":null
     },
     "STEP_8":{
