@@ -55,7 +55,9 @@
             "tuper",
             "Tupper",
             "tupper",
-            "Tupperware"
+            "Tupperware",
+            "Toper",
+            "toper"
         ],
         "key": "STEP_4"
     },
@@ -98,11 +100,5 @@
             
         ],
         "key": "STEP_7"
-    },
-    {
-        "keywords":  [
-            "audio"
-        ],
-        "key": "STEP_8"
     }
 ]

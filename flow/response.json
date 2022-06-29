@@ -62,7 +62,7 @@
     },
     "STEP_5":{
         "replyMessage":[
-            "Kuul lo manejamos de la siguiente manera \n",
+            "Kuul lo manejamos de la siguiente manera \n"
             
         ],
         "media":null,
@@ -83,13 +83,6 @@
             "Gracias por contactarnos✨\n"
         ],
         "media":"hablar.ogg",
-        "trigger":null
-    },
-    "STEP_8":{
-        "replyMessage":[
-            "Esto es una nota de voz \n"
-        ],
-        "media":"nota-de-voz.mp3",
         "trigger":null
     }
 }
