@@ -70,16 +70,12 @@
     },
     "STEP_6":{
         "replyMessage":[
-            "Perfecto, te voy a pasar la lista ",
-            "de los temas que tengo y un breve video 🙂🤖 \n\n",
-            "*Angular* Basico (Pago) \n",
-            "*Angular* Basico (Gratis) \n",
-            "*Node* Basico (Gratis) \n",
-            "*NGRX* Basico (Gratis) \n",
-            "*AWS* Basico (Pago) \n\n",
-            "Escribe la palabra del tema que te interese \n"
+            "Más de 4 años nos respaldan en el mundo de las ventas🥰🥰\n",
+            "Contamos con local en el pleno centro de Tapachula✅ \ncon envíos a toda Guatemala✅",
+            "referencias 100% reales✅ *Somos Wismos, un placer atenderle*😸😸"
+            
         ],
-        "media":"https://i.giphy.com/media/5J5gN0WUk0VToHaK2p/giphy-downsized.gif",
+        "media":"referencias.jpg",
         "trigger":null
     },
     "STEP_7":{
