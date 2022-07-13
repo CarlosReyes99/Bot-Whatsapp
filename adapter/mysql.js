@@ -1,4 +1,4 @@
-/* const {connection} = require('../config/mysql')
+ const {connection} = require('../config/mysql')
 const DATABASE_NAME = process.env.SQL_DATABASE || 'db_test'
 
 getData = (message = '', callback) => connection.query(
@@ -70,4 +70,4 @@ saveMessageMysql = ( message, date, trigger, number ) => new Promise((resolve,re
     }
 })
 
-module.exports = {getData, getReply, saveMessageMysql} */
+module.exports = {getData, getReply, saveMessageMysql} 
